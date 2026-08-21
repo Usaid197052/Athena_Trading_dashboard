@@ -1,0 +1,7 @@
+{
+  "auto_execute_low_risk": true,
+  "confirm_medium_risk": true,
+  "confirm_high_risk": true,
+  "deny_critical": true,
+  "confirm_timeout_seconds": 120
+}

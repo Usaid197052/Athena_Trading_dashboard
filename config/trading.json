@@ -1,0 +1,22 @@
+{
+  "symbols": [
+    "EURUSD"
+  ],
+  "timeframe": "H1",
+  "volume": 0.01,
+  "sl_atr": 1.5,
+  "tp_atr": 2.0,
+  "magic": 20260820,
+  "max_positions": 3,
+  "daily_loss_pct": 3.0,
+  "max_spread_points": 25,
+  "deviation": 20,
+  "auto_trade": true,
+  "session_24h": true,
+  "session_start_utc": "07:00",
+  "session_end_utc": "21:00",
+  "news_blackout_before_min": 30,
+  "news_blackout_after_min": 15,
+  "watch_interval_sec": 20,
+  "comment": "Athena"
+}

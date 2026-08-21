@@ -1,0 +1,20 @@
+PyQt6
+sounddevice
+google-genai
+google-generativeai
+pillow
+numpy
+pandas
+MetaTrader5; sys_platform == "win32"
+pywin32; sys_platform == "win32"
+psutil
+ddgs
+vosk
+opencv-python
+mss
+requests
+beautifulsoup4
+pydantic>=2
+pytest
+pytest-timeout
+python-docx
